@@ -1,6 +1,6 @@
-# Toward Improving Effectiveness of Crowdsourced, On-Demand Assistance From Authors in Online Learning Platforms
+# [Toward Improving Effectiveness of Crowdsourced, On-Demand Assistance From Authors in Online Learning Platforms](https://doi.org/10.17605/osf.io/zcbjx)
 
-*Toward Improving Effectiveness of Crowdsourced, On-Demand Assistance From Authors in Online Learning Platforms* is a project that ran within the [ASSISTments Platform](assistments.org) from February 16th, 2022 to June 1st, 2022. This attempted to determine between any two authors within the platform which was better at generating on-demand assistance (e.g. hints and explanations). It contains the preregistration and updates of this project through this time period, the datasets compiled, constructed, and used, and the analysis ran to obtain the specified results.
+[*Toward Improving Effectiveness of Crowdsourced, On-Demand Assistance From Authors in Online Learning Platforms*](https://doi.org/10.17605/osf.io/zcbjx) is a project that ran within the [ASSISTments Platform](assistments.org) from February 16th, 2022 to June 1st, 2022. This attempted to determine between any two authors within the platform which was better at generating on-demand assistance (e.g. hints and explanations). It contains the preregistration and updates of this project through this time period, the datasets compiled, constructed, and used, and the analysis ran to obtain the specified results.
 
 ## External Datasets
 
