@@ -2,7 +2,10 @@
 
 [![GitHub DOI](https://zenodo.org/badge/519476273.svg)](https://zenodo.org/badge/latestdoi/519476273)
 [![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2Fosf.io%2Fzcbjx-blue)](https://doi.org/10.17605/osf.io/zcbjx)
+
+
 [![Docker](https://img.shields.io/docker/automated/ahaim5357/10.17605-osf.io-zcbjx)](https://hub.docker.com/repository/docker/ahaim5357/10.17605-osf.io-zcbjx)
+[![Docker DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6946374.svg)](https://doi.org/10.5281/zenodo.6946374)
 
 [*Toward Improving Effectiveness of Crowdsourced, On-Demand Assistance From Authors in Online Learning Platforms*](https://doi.org/10.17605/osf.io/zcbjx) is a project that ran within the [ASSISTments Platform](assistments.org) from February 16th, 2022 to June 1st, 2022. This attempted to determine between any two authors within the platform which was better at generating on-demand assistance (e.g. hints and explanations). It contains the preregistration and updates of this project through this time period, the datasets compiled, constructed, and used, and the analysis ran to obtain the specified results.
 
