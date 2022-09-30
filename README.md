@@ -88,3 +88,17 @@ For Unix Systems (Linux, MacOS):
 For Windows Systems:
 
     py ./main.py
+
+## Citation
+
+```
+@misc{Haim_Cheng_Prihar_Heffernan_Heffernan_2022,
+  title={Toward Improving Effectiveness of Crowdsourced, On-Demand Assistance From Authors in Online Learning Platforms},
+  url={osf.io/zcbjx},
+  DOI={10.17605/OSF.IO/ZCBJX},
+  publisher={OSF},
+  author={Haim, Aaron and Cheng, Li and Prihar, Ethan and Heffernan, Neil T, III and Heffernan, Cristina},
+  year={2022},
+  month={Aug}
+}
+```
